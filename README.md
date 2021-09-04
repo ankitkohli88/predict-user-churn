@@ -16,7 +16,7 @@ So, our job is deep mining the customers' data and implement appropriate model t
 * PySpark ML
 * Jupyter
 
-#Results
+# Results
 The baseline of four machine learning methods: Logistic Regression, Linear SVC, Decision Tree Classifier and Random Forest Classifier.
 
 u8Af6e.png
