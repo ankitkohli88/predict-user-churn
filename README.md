@@ -32,7 +32,7 @@ which is 82% less than LinearSVC
 
 Considering this is only a quit mini dataset and our purpose is scaling this up to the total 12G dataset, so, the logistic regression is the best model from now on in this project.
 
-Please check my blog post to get more details, here is the link.
+Please check my blog post to get more details, here is the [link](https://kohliankit06.medium.com/sparkify-predict-user-churn-using-spark-4d659922425a).
 
 # References
 Dataset provided by Udacity.
