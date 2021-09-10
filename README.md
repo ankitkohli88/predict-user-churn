@@ -19,7 +19,9 @@ So, our job is deep mining the customers' data and implement appropriate model t
 # Results
 The baseline of four machine learning methods: Logistic Regression, Linear SVC, Decision Tree Classifier and Random Forest Classifier.
 
-u8Af6e.png
+
+![F1-Score](https://github.com/ankitkohli88/predict-user-churn/blob/main/Screenshot%202021-09-10%20at%2011.34.32%20PM.png?raw=true)
+
 
 Though the LinearSVC spent more training time, but it can get the highest f1 score 0.702. And the LogisticRegression has a medium training time and f1 score, maybe I can tuning it to get a higher score. So I'll choose LinearSVC and LogisticRegression to tuning, and the result is as follows:
 
